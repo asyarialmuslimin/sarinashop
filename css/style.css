@@ -1,0 +1,173 @@
+.icon-block {
+	padding: 0 15px;
+  }
+  .icon-block .material-icons {
+	  font-size: inherit;
+  }
+  
+  .navbar-style{
+	padding-left: 10px;
+	padding-right: 10px;
+  }
+  
+  .btn-add{
+	  position: fixed;
+	  bottom: 30px;
+	  right: 20px;
+  }
+  
+  .btn-signin{
+	  position: fixed;
+	  top: 20px;
+	  right: 80px;
+	  z-index: 3;
+  }
+  
+  .btn-signup{
+	position: fixed;
+	  top: 20px;
+	  right: 30px;
+	  z-index: 3;
+  }
+  
+  .terlaris{
+	  background-color: #FF9800;
+	  width: 100%;
+	height: auto;
+	color: white;
+	padding: 10px;
+  }
+  
+  .terbaru{
+	padding: 10px;
+  }
+  
+  .login-btn{
+	  width: 100%;
+	  font-size: 25px;
+  }
+  
+  .sidemenu{
+	margin:0;
+	margin-top: 5px;
+	padding-left: 5px;
+	width: 200px;
+	background-color: #656565;
+	position: fixed;
+	height: 100%;
+	overflow: auto;
+  }
+  
+  .konten{
+	margin-left: 200px;
+	padding: 10px;
+	height: 1000px;
+  }
+
+  .konten h3{
+	  margin-top: 0;
+  }
+
+  .sidelink{
+	width:100%;
+	padding:10px;
+  }
+
+  .sidelink:hover{
+	width:100%;
+	padding:10px;
+	background-color: #FF9800;
+  }
+
+  .sidelink a{
+	width:100%;
+	padding:10px;
+	decoration: none;
+	color: white;
+  }
+
+  .sidelink i{
+	margin-right: 5px;
+}
+
+th{
+	background-color: #FF9800;
+	color: white;
+}
+
+.btnTambah{
+	position: fixed;
+	right: 40px;
+	bottom: 40px;
+}
+
+.dropdown-content{
+	width: max-content !important;
+	height: auto !important;
+}
+
+#topbarsearch{
+
+}
+
+.produkadd{
+	padding : 0 50px 0;
+}
+
+.btn-add-cart{
+	position: absolute;
+	bottom: 10px;
+}
+
+.btn-cart{
+	background-color: #555;
+	color: white;
+ 	text-decoration: none;
+  	padding: 20px;
+	  position: fixed;
+	  bottom: 50px;
+	  right: 50px;
+ 	display: inline-block;
+ 	border-radius: 100px;
+ 	z-index: 3;
+}
+
+.btn-cart .badge{
+	position: absolute;
+	top: -10px;
+	right: -10px;
+	padding: 10px;
+	border-radius: 100px;
+	background: red;
+	color: white;
+	width: auto;
+	height: auto;
+	font-size: 13px;
+}
+
+.counter-bill{
+	margin-left: 5px;
+	position: relative;
+	padding: 5px;
+	background-color: red;
+	font-size: 10px;
+	top: -5px;
+}
+
+.counter-order{
+	margin-left: 5px;
+	position: relative;
+	padding: 5px;
+	background-color: red;
+	font-size: 10px;
+	top: -5px;
+}
+
+.counter-pesan{
+	margin-left: 5px;
+	position: relative;
+	padding: 5px;
+	background-color: red;
+	font-size: 10px;
+	top: -5px;
+}
